@@ -1,11 +1,12 @@
 import express, { Request, Response, NextFunction } from 'express';
 //logger middleware
 const basicLogger = (req: Request, res: Response, next: NextFunction) => {
-    const { method, url } = req;
+    const { method, url, headers } = req;
     const date = new Date();
-   
+
     // Log request details
     console.log(`${method} ${url} ${date.toLocaleString()}`);
+    console.log(`header`, headers)
 
     // Capture response details
     // const originalSend = res.send;

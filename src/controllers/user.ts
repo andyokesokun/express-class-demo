@@ -1,35 +1,72 @@
 import { Request, Response } from "express";
 import User from "../models/user";
+import asyncHandler from "express-async-handler";
+import bcrypt from "bcrypt";
+import { ensureUserCrendentialIsValid, generateToken } from "../utils/helpers";
 
-const getUsers = (req: Request, res: Response) => {
-  const { getUsers } = User;
-  res.send({ message: "Get all users", users: getUsers() }).status(200);
+const login = asyncHandler(async (req: Request, res: Response) => {
+  const { username, password } = req.body;
+  await ensureUserCrendentialIsValid(username, password, res);
+  
+  const user = await User.getByEmail(username);
+  const token = generateToken(user,password, res);
+
+  const response = {
+    message: "login successful",
+    token,
+  };
+  res.status(200).json(response);
+});
+
+
+const getUsers = async (req: Request, res: Response) => {
+  const users = await User.getUsers();
+  res.send({ message: "Get all users", users }).status(200);
 };
 
-const createUser = (req: Request, res: Response) => {
+const createUser = asyncHandler(async (req: Request, res: Response) => {
   const { name, email } = req.body;
+
+  const user = await User.createUser({ name, email });
+
   const data = {
     message: "User created",
-    user: {
-      name,
-      email,
-    },
+    user,
   };
-
   res.status(201).json(data);
-};
+});
 
-const getById = (req: Request, res: Response) => {
+const setUserPassword = asyncHandler(async (req: Request, res: Response) => {
+  const { password } = req.body;
   const { id } = req.params;
+
+  const user = await User.getById(id);
+  if (!user) {
+    res.status(404).json({ message: "User doesn't not exist" });
+  }
+
+  const salt = await bcrypt.genSalt(5);
+  const encryptedPassword = await bcrypt.hash(password, salt);
+  await User.updatePassword(id, encryptedPassword);
+
+  const data = {
+    message: "User password updated",
+    user,
+  };
+  res.status(200).json(data);
+});
+
+const getById = asyncHandler(async (req: Request, res: Response) => {
+  const { id } = req.params;
+  const user = await User.getById(id);
+
   const data = {
     message: "Get user by id",
-    user: {
-      id,
-    },
+    user,
   };
 
   res.status(200).json(data);
-};
+});
 
 const updateUser = (req: Request, res: Response) => {
   const { id } = req.params;
@@ -56,10 +93,10 @@ const deleteUser = (req: Request, res: Response) => {
   res.status(200).json(data);
 };
 
-const getRenderedUser = (req: Request,res: Response)=>{
-    const {getUsers} = User; //model
-    res.render('user',{title:"Get Users", users: getUsers()} );
-}
+const getRenderedUser = (req: Request, res: Response) => {
+  const { getUsers } = User; //model
+  res.render("user", { title: "Get Users", users: getUsers() });
+};
 
 const UserController = {
   getUsers,
@@ -67,7 +104,9 @@ const UserController = {
   getById,
   updateUser,
   deleteUser,
-  getRenderedUser
+  getRenderedUser,
+  setUserPassword,
+  login,
 };
 
 export default UserController;
