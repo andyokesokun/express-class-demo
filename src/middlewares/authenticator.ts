@@ -7,7 +7,8 @@ export const authenticator  = async (req: Request, res: Response, next: NextFunc
     if(!token){
         res.status(401).json({message: "Missing authentication"})
     }
-    await verifyToken(token!, res);
+    const user = await verifyToken(token!, res);
+    req.user = user!;
     next();
   
 }

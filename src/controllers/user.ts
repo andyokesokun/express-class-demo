@@ -21,6 +21,7 @@ const login = asyncHandler(async (req: Request, res: Response) => {
 
 const getUsers = async (req: Request, res: Response) => {
   const users = await User.getUsers();
+  debugger;
   res.send({ message: "Get all users", users }).status(200);
 };
 

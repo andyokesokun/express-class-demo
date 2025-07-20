@@ -8,6 +8,4 @@ routes.use('/users', userRouter);
 routes.use('/cars', carRoutes);
 routes.use('/auth', authRoute);
 
-
-
 export default routes;

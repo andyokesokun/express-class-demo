@@ -5,7 +5,7 @@ interface User {
   name: string;
   email: string;
   password?: string;
-  role?: boolean;
+  role?: string;
   createdAt?: Date;
   updatedAt?: Date;
 }
@@ -22,6 +22,7 @@ const userSchema = new mongoose.Schema<User>({
   password: { type: String, required: false },
   createdAt: { type: Date, default: Date.now },
   updatedAt: { type: Date, default: Date.now },
+  role: { type: String }
 });
 
 //map shema to model
