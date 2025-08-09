@@ -1,0 +1,135 @@
+{"level":"info","message":"Server is running on port 3001","service":"Express-api-demo"}
+{"level":"info","message":"Connected to MongoDB","service":"Express-api-demo"}
+{"level":"info","message":"Server is running on port 3001","service":"Express-api-demo"}
+{"level":"info","message":"Server is running on port 3001","service":"Express-api-demo"}
+{"level":"info","message":"Connected to MongoDB","service":"Express-api-demo"}
+{"level":"info","message":"Server is running on port 3001","service":"Express-api-demo"}
+{"level":"info","message":"Connected to MongoDB","service":"Express-api-demo"}
+{"level":"info","message":"Server is running on port 3001","service":"Express-api-demo"}
+{"level":"info","message":"Server is running on port 3001","service":"Express-api-demo"}
+{"level":"info","message":"Server is running on port 3001","service":"Express-api-demo"}
+{"level":"info","message":"Connected to MongoDB","service":"Express-api-demo"}
+{"level":"info","message":"Server is running on port 3001","service":"Express-api-demo"}
+{"level":"info","message":"Connected to MongoDB","service":"Express-api-demo"}
+{"level":"info","message":"Server is running on port 3001","service":"Express-api-demo"}
+{"level":"info","message":"Connected to MongoDB","service":"Express-api-demo"}
+{"level":"info","message":"Server is running on port 3001","service":"Express-api-demo"}
+{"level":"info","message":"Connected to MongoDB","service":"Express-api-demo"}
+{"level":"info","message":"Server is running on port 3001","service":"Express-api-demo"}
+{"level":"info","message":"Connected to MongoDB","service":"Express-api-demo"}
+{"level":"info","message":"Server is running on port 3001","service":"Express-api-demo"}
+{"level":"info","message":"Connected to MongoDB","service":"Express-api-demo"}
+{"level":"info","message":"Server is running on port 3001","service":"Express-api-demo"}
+{"level":"info","message":"Connected to MongoDB","service":"Express-api-demo"}
+{"level":"info","message":"Server is running on port 3001","service":"Express-api-demo"}
+{"level":"info","message":"Server is running on port 3001","service":"Express-api-demo"}
+{"level":"info","message":"Connected to MongoDB","service":"Express-api-demo"}
+{"level":"info","message":"Server is running on port 3001","service":"Express-api-demo"}
+{"level":"info","message":"Connected to MongoDB","service":"Express-api-demo"}
+{"level":"info","message":"Server is running on port 3001","service":"Express-api-demo"}
+{"level":"info","message":"Connected to MongoDB","service":"Express-api-demo"}
+{"level":"info","message":"Server is running on port 3001","service":"Express-api-demo"}
+{"level":"info","message":"Connected to MongoDB","service":"Express-api-demo"}
+{"level":"info","message":"Server is running on port 3001","service":"Express-api-demo"}
+{"level":"info","message":"Connected to MongoDB","service":"Express-api-demo"}
+{"level":"info","message":"Server is running on port 3001","service":"Express-api-demo"}
+{"level":"info","message":"Connected to MongoDB","service":"Express-api-demo"}
+{"level":"info","message":"Server is running on port 3001","service":"Express-api-demo"}
+{"level":"info","message":"Connected to MongoDB","service":"Express-api-demo"}
+{"level":"info","message":"Server is running on port 3001","service":"Express-api-demo"}
+{"level":"info","message":"Connected to MongoDB","service":"Express-api-demo"}
+{"level":"info","message":"Server is running on port 3001","service":"Express-api-demo"}
+{"level":"info","message":"Connected to MongoDB","service":"Express-api-demo"}
+{"level":"info","message":"Server is running on port 3001","service":"Express-api-demo"}
+{"level":"info","message":"Server is running on port 3001","service":"Express-api-demo"}
+{"level":"info","message":"Connected to MongoDB","service":"Express-api-demo"}
+{"level":"info","message":"Server is running on port 3001","service":"Express-api-demo"}
+{"level":"info","message":"Connected to MongoDB","service":"Express-api-demo"}
+{"level":"info","message":"Server is running on port 3001","service":"Express-api-demo"}
+{"level":"info","message":"Server is running on port 3001","service":"Express-api-demo"}
+{"level":"info","message":"Server is running on port 3001","service":"Express-api-demo"}
+{"level":"info","message":"Server is running on port 3001","service":"Express-api-demo"}
+{"level":"info","message":"Connected to MongoDB","service":"Express-api-demo"}
+{"level":"info","message":"Server is running on port 3001","service":"Express-api-demo"}
+{"level":"info","message":"Server is running on port 3001","service":"Express-api-demo"}
+{"level":"info","message":"Server is running on port 3001","service":"Express-api-demo"}
+{"level":"info","message":"Server is running on port 3001","service":"Express-api-demo"}
+{"level":"info","message":"Connected to MongoDB","service":"Express-api-demo"}
+{"level":"info","message":"Server is running on port 3001","service":"Express-api-demo"}
+{"level":"info","message":"Connected to MongoDB","service":"Express-api-demo"}
+{"level":"info","message":"Server is running on port 3001","service":"Express-api-demo"}
+{"level":"info","message":"Connected to MongoDB","service":"Express-api-demo"}
+{"level":"info","message":"Server is running on port 3001","service":"Express-api-demo"}
+{"level":"info","message":"Connected to MongoDB","service":"Express-api-demo"}
+{"level":"info","message":"POST /api/v1/auth/login 8/9/2025, 6:53:11 PM","service":"Express-api-demo"}
+{"accept":"*/*","accept-encoding":"gzip, deflate, br","connection":"keep-alive","content-length":"73","content-type":"application/json","cookie":"connect.sid=s%3AYObjk6invw5Jz5iblr1ArAf64ZxfYtHD.dP7lKtGlgMimGqpCOtKrlSgdaenm9v8cHBN8ixxrXH8; i18next=en","host":"localhost:3001","level":"info","message":"header","postman-token":"86361715-0ccc-4169-936d-32051f16b8e7","service":"Express-api-demo","user-agent":"PostmanRuntime/7.44.1"}
+{"level":"info","message":"Response: 200 {\"message\":\"login successful\",\"token\":\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2ODQ0N2MwNjM5YTI3YTczYmQzZDYzMGMiLCJuYW1lIjoiQW5kcmV3Iiwicm9sZSI6InN1cGVyX2FkbWluIiwiaWF0IjoxNzU0NzYxOTkxLCJleHAiOjE3NTQ3NjM3OTF9.jMeYcHL2OiOqlcWTgd9nBXIBilPratkOkwj-pRINXJs\"}","service":"Express-api-demo"}
+{"level":"info","message":"loggedIn-user:","service":"Express-api-demo"}
+{"level":"info","message":"Server is running on port 3001","service":"Express-api-demo"}
+{"level":"info","message":"Connected to MongoDB","service":"Express-api-demo"}
+{"level":"info","message":"GET /api/v1/users 8/9/2025, 6:56:06 PM","service":"Express-api-demo"}
+{"accept":"*/*","accept-encoding":"gzip, deflate, br","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2ODQ0N2MwNjM5YTI3YTczYmQzZDYzMGMiLCJuYW1lIjoiQW5kcmV3Iiwicm9sZSI6InN1cGVyX2FkbWluIiwiaWF0IjoxNzU0NzYxOTkxLCJleHAiOjE3NTQ3NjM3OTF9.jMeYcHL2OiOqlcWTgd9nBXIBilPratkOkwj-pRINXJs","connection":"keep-alive","cookie":"connect.sid=s%3AqXz4YzEdFMi7-MgGs-2U1Kz4NyeVdu50.%2BcMC6L4yrVeVtFJ8QjtcbH%2FAomrSuND1AfOZn8eDvpE; i18next=en","host":"localhost:3001","level":"info","message":"header","postman-token":"2d9014d8-0ba1-4ad0-94fb-6b23f223264d","service":"Express-api-demo","user-agent":"PostmanRuntime/7.44.1"}
+{"level":"info","message":"Response: 200 [object Object]","service":"Express-api-demo"}
+{"exp":1754763791,"iat":1754761991,"level":"info","message":"loggedIn-user:","name":"Andrew","role":"super_admin","service":"Express-api-demo","userId":"68447c0639a27a73bd3d630c"}
+{"level":"info","message":"Response: 200 {\"message\":\"Get all users\",\"users\":[{\"id\":\"68447c0639a27a73bd3d630c\",\"name\":\"Andrew\",\"email\":\"aokesokun@gmail.com\",\"createdAt\":\"2025-06-07T17:51:02.638Z\",\"updatedAt\":\"2025-06-07T17:51:02.638Z\"},{\"id\":\"68447db1d0955abf03092e73\",\"name\":\"Philip Joe\",\"email\":\"joe@gmail.com\",\"createdAt\":\"2025-06-07T17:58:09.298Z\",\"updatedAt\":\"2025-06-07T17:58:09.298Z\"},{\"id\":\"68447e10130f974324dd0bd4\",\"name\":\"Okon Henry\",\"email\":\"henry@gmail.com\",\"createdAt\":\"2025-06-07T17:59:44.882Z\",\"updatedAt\":\"2025-06-07T17:59:44.882Z\"},{\"id\":\"684487004ec88f9b06689575\",\"name\":\"Kingsley\",\"email\":\"kingsley@gmail.com\",\"createdAt\":\"2025-06-07T18:37:52.003Z\",\"updatedAt\":\"2025-06-07T18:37:52.003Z\"},{\"id\":\"6845cbb5a275b21da820e6b4\",\"name\":\"Kachi Okon\",\"email\":\"kachi@gmail.com\",\"createdAt\":\"2025-06-08T17:43:17.239Z\",\"updatedAt\":\"2025-06-08T17:43:17.239Z\"},{\"id\":\"6845d6f916417b5d3e2a708e\",\"name\":\"Snail Ork\",\"email\":\"smail ork\",\"createdAt\":\"2025-06-08T18:31:21.739Z\",\"updatedAt\":\"2025-06-08T18:31:21.739Z\"},{\"id\":\"6845d828b3e8d20a6e74ed27\",\"name\":\"Snail Ork\",\"email\":\"smail@ork.com\",\"createdAt\":\"2025-06-08T18:36:24.095Z\",\"updatedAt\":\"2025-06-08T18:36:24.095Z\"},{\"id\":\"68601925c4adb2a091bbaaa6\",\"name\":\"Joe\",\"email\":\"ddrelux\",\"createdAt\":\"2025-06-28T16:32:37.534Z\",\"updatedAt\":\"2025-06-28T16:32:37.534Z\"},{\"id\":\"686028a48818582615c2f5ec\",\"name\":\"Joe Rail\",\"email\":\"ddrelux@gmail.com\",\"createdAt\":\"2025-06-28T17:38:44.856Z\",\"updatedAt\":\"2025-06-28T17:38:44.856Z\"},{\"id\":\"68697121661e798b5b85e80b\",\"name\":\"Ddre lux\",\"email\":\"ddrelux2@gmail.com\",\"createdAt\":\"2025-07-05T18:38:25.637Z\",\"updatedAt\":\"2025-07-05T18:38:25.637Z\"}]}","service":"Express-api-demo"}
+{"exp":1754763791,"iat":1754761991,"level":"info","message":"loggedIn-user:","name":"Andrew","role":"super_admin","service":"Express-api-demo","userId":"68447c0639a27a73bd3d630c"}
+{"level":"info","message":"Server is running on port 3001","service":"Express-api-demo"}
+{"level":"info","message":"Connected to MongoDB","service":"Express-api-demo"}
+{"level":"info","message":"Server is running on port 3001","service":"Express-api-demo"}
+{"level":"info","message":"Server is running on port 3001","service":"Express-api-demo"}
+{"level":"info","message":"Connected to MongoDB","service":"Express-api-demo"}
+{"level":"info","message":"Server is running on port 3001","service":"Express-api-demo"}
+{"level":"info","message":"Server is running on port 3001","service":"Express-api-demo"}
+{"level":"info","message":"Server is running on port 3001","service":"Express-api-demo"}
+{"level":"info","message":"Server is running on port 3001","service":"Express-api-demo"}
+{"level":"info","message":"Server is running on port 3001","service":"Express-api-demo"}
+{"level":"info","message":"Connected to MongoDB","service":"Express-api-demo"}
+{"level":"info","message":"GET /api/v1/users 8/9/2025, 7:04:59 PM","service":"Express-api-demo"}
+{"accept":"*/*","accept-encoding":"gzip, deflate, br","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2ODQ0N2MwNjM5YTI3YTczYmQzZDYzMGMiLCJuYW1lIjoiQW5kcmV3Iiwicm9sZSI6InN1cGVyX2FkbWluIiwiaWF0IjoxNzU0NzYxOTkxLCJleHAiOjE3NTQ3NjM3OTF9.jMeYcHL2OiOqlcWTgd9nBXIBilPratkOkwj-pRINXJs","connection":"keep-alive","cookie":"connect.sid=s%3AFfF4xssqfJi5IiSY1JN93-WwHXC3qUTL.XVa5oiP9h0ZCsq%2FL9rFzjvFEj6utR0%2B3vd3Zlr1njCQ; i18next=en","host":"localhost:3001","level":"info","message":"header","postman-token":"98989624-1666-4050-9b7e-d5015d9dbf67","service":"Express-api-demo","user-agent":"PostmanRuntime/7.44.1"}
+{"level":"info","message":"Entered getUsers method","service":"Express-api-demo"}
+{"level":"info","message":"Fetched users successfully","service":"Express-api-demo"}
+{"level":"info","message":"Response: 200 [object Object]","service":"Express-api-demo"}
+{"exp":1754763791,"iat":1754761991,"level":"info","message":"loggedIn-user:","name":"Andrew","role":"super_admin","service":"Express-api-demo","userId":"68447c0639a27a73bd3d630c"}
+{"level":"info","message":"Response: 200 {\"message\":\"Get all users\",\"users\":[{\"id\":\"68447c0639a27a73bd3d630c\",\"name\":\"Andrew\",\"email\":\"aokesokun@gmail.com\",\"createdAt\":\"2025-06-07T17:51:02.638Z\",\"updatedAt\":\"2025-06-07T17:51:02.638Z\"},{\"id\":\"68447db1d0955abf03092e73\",\"name\":\"Philip Joe\",\"email\":\"joe@gmail.com\",\"createdAt\":\"2025-06-07T17:58:09.298Z\",\"updatedAt\":\"2025-06-07T17:58:09.298Z\"},{\"id\":\"68447e10130f974324dd0bd4\",\"name\":\"Okon Henry\",\"email\":\"henry@gmail.com\",\"createdAt\":\"2025-06-07T17:59:44.882Z\",\"updatedAt\":\"2025-06-07T17:59:44.882Z\"},{\"id\":\"684487004ec88f9b06689575\",\"name\":\"Kingsley\",\"email\":\"kingsley@gmail.com\",\"createdAt\":\"2025-06-07T18:37:52.003Z\",\"updatedAt\":\"2025-06-07T18:37:52.003Z\"},{\"id\":\"6845cbb5a275b21da820e6b4\",\"name\":\"Kachi Okon\",\"email\":\"kachi@gmail.com\",\"createdAt\":\"2025-06-08T17:43:17.239Z\",\"updatedAt\":\"2025-06-08T17:43:17.239Z\"},{\"id\":\"6845d6f916417b5d3e2a708e\",\"name\":\"Snail Ork\",\"email\":\"smail ork\",\"createdAt\":\"2025-06-08T18:31:21.739Z\",\"updatedAt\":\"2025-06-08T18:31:21.739Z\"},{\"id\":\"6845d828b3e8d20a6e74ed27\",\"name\":\"Snail Ork\",\"email\":\"smail@ork.com\",\"createdAt\":\"2025-06-08T18:36:24.095Z\",\"updatedAt\":\"2025-06-08T18:36:24.095Z\"},{\"id\":\"68601925c4adb2a091bbaaa6\",\"name\":\"Joe\",\"email\":\"ddrelux\",\"createdAt\":\"2025-06-28T16:32:37.534Z\",\"updatedAt\":\"2025-06-28T16:32:37.534Z\"},{\"id\":\"686028a48818582615c2f5ec\",\"name\":\"Joe Rail\",\"email\":\"ddrelux@gmail.com\",\"createdAt\":\"2025-06-28T17:38:44.856Z\",\"updatedAt\":\"2025-06-28T17:38:44.856Z\"},{\"id\":\"68697121661e798b5b85e80b\",\"name\":\"Ddre lux\",\"email\":\"ddrelux2@gmail.com\",\"createdAt\":\"2025-07-05T18:38:25.637Z\",\"updatedAt\":\"2025-07-05T18:38:25.637Z\"}]}","service":"Express-api-demo"}
+{"exp":1754763791,"iat":1754761991,"level":"info","message":"loggedIn-user:","name":"Andrew","role":"super_admin","service":"Express-api-demo","userId":"68447c0639a27a73bd3d630c"}
+{"level":"info","message":"Server is running on port 3001","service":"Express-api-demo"}
+{"level":"info","message":"Connected to MongoDB","service":"Express-api-demo"}
+{"level":"info","message":"Request: GET /api/v1/users 8/9/2025, 7:20:53 PM","service":"Express-api-demo"}
+{"accept":"*/*","accept-encoding":"gzip, deflate, br","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2ODQ0N2MwNjM5YTI3YTczYmQzZDYzMGMiLCJuYW1lIjoiQW5kcmV3Iiwicm9sZSI6InN1cGVyX2FkbWluIiwiaWF0IjoxNzU0NzYxOTkxLCJleHAiOjE3NTQ3NjM3OTF9.jMeYcHL2OiOqlcWTgd9nBXIBilPratkOkwj-pRINXJs","connection":"keep-alive","cookie":"connect.sid=s%3At6PfDJFRRscwQLil7nW9wwiEAifzxmfo.IrbQfgybaPRDpnSYkgKGmGaffEofw3oQDxBh7EpxM7s; i18next=en","host":"localhost:3001","level":"info","message":"header","postman-token":"f535d3ce-73e0-4e70-9406-5f8fbbfa475b","service":"Express-api-demo","user-agent":"PostmanRuntime/7.44.1"}
+{"level":"info","message":"Entered getUsers method","service":"Express-api-demo"}
+{"level":"info","message":"Fetched users successfully","service":"Express-api-demo"}
+{"level":"info","message":"Response: 200 [object Object]","service":"Express-api-demo"}
+{"exp":1754763791,"iat":1754761991,"level":"info","message":"loggedIn-user:","name":"Andrew","role":"super_admin","service":"Express-api-demo","userId":"68447c0639a27a73bd3d630c"}
+{"level":"info","message":"Response: 200 {\"message\":\"Get all users\",\"users\":[{\"id\":\"68447c0639a27a73bd3d630c\",\"name\":\"Andrew\",\"email\":\"aokesokun@gmail.com\",\"createdAt\":\"2025-06-07T17:51:02.638Z\",\"updatedAt\":\"2025-06-07T17:51:02.638Z\"},{\"id\":\"68447db1d0955abf03092e73\",\"name\":\"Philip Joe\",\"email\":\"joe@gmail.com\",\"createdAt\":\"2025-06-07T17:58:09.298Z\",\"updatedAt\":\"2025-06-07T17:58:09.298Z\"},{\"id\":\"68447e10130f974324dd0bd4\",\"name\":\"Okon Henry\",\"email\":\"henry@gmail.com\",\"createdAt\":\"2025-06-07T17:59:44.882Z\",\"updatedAt\":\"2025-06-07T17:59:44.882Z\"},{\"id\":\"684487004ec88f9b06689575\",\"name\":\"Kingsley\",\"email\":\"kingsley@gmail.com\",\"createdAt\":\"2025-06-07T18:37:52.003Z\",\"updatedAt\":\"2025-06-07T18:37:52.003Z\"},{\"id\":\"6845cbb5a275b21da820e6b4\",\"name\":\"Kachi Okon\",\"email\":\"kachi@gmail.com\",\"createdAt\":\"2025-06-08T17:43:17.239Z\",\"updatedAt\":\"2025-06-08T17:43:17.239Z\"},{\"id\":\"6845d6f916417b5d3e2a708e\",\"name\":\"Snail Ork\",\"email\":\"smail ork\",\"createdAt\":\"2025-06-08T18:31:21.739Z\",\"updatedAt\":\"2025-06-08T18:31:21.739Z\"},{\"id\":\"6845d828b3e8d20a6e74ed27\",\"name\":\"Snail Ork\",\"email\":\"smail@ork.com\",\"createdAt\":\"2025-06-08T18:36:24.095Z\",\"updatedAt\":\"2025-06-08T18:36:24.095Z\"},{\"id\":\"68601925c4adb2a091bbaaa6\",\"name\":\"Joe\",\"email\":\"ddrelux\",\"createdAt\":\"2025-06-28T16:32:37.534Z\",\"updatedAt\":\"2025-06-28T16:32:37.534Z\"},{\"id\":\"686028a48818582615c2f5ec\",\"name\":\"Joe Rail\",\"email\":\"ddrelux@gmail.com\",\"createdAt\":\"2025-06-28T17:38:44.856Z\",\"updatedAt\":\"2025-06-28T17:38:44.856Z\"},{\"id\":\"68697121661e798b5b85e80b\",\"name\":\"Ddre lux\",\"email\":\"ddrelux2@gmail.com\",\"createdAt\":\"2025-07-05T18:38:25.637Z\",\"updatedAt\":\"2025-07-05T18:38:25.637Z\"}]}","service":"Express-api-demo"}
+{"exp":1754763791,"iat":1754761991,"level":"info","message":"loggedIn-user:","name":"Andrew","role":"super_admin","service":"Express-api-demo","userId":"68447c0639a27a73bd3d630c"}
+{"level":"info","message":"Server is running on port 3001","service":"Express-api-demo"}
+{"level":"info","message":"Server is running on port 3001","service":"Express-api-demo"}
+{"level":"info","message":"Connected to MongoDB","service":"Express-api-demo"}
+{"level":"info","message":"Server is running on port 3001","service":"Express-api-demo"}
+{"level":"info","message":"Connected to MongoDB","service":"Express-api-demo"}
+{"level":"info","message":"Request: GET /api/v1/users 8/9/2025, 7:22:10 PM","service":"Express-api-demo"}
+{"accept":"*/*","accept-encoding":"gzip, deflate, br","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2ODQ0N2MwNjM5YTI3YTczYmQzZDYzMGMiLCJuYW1lIjoiQW5kcmV3Iiwicm9sZSI6InN1cGVyX2FkbWluIiwiaWF0IjoxNzU0NzYxOTkxLCJleHAiOjE3NTQ3NjM3OTF9.jMeYcHL2OiOqlcWTgd9nBXIBilPratkOkwj-pRINXJs","connection":"keep-alive","cookie":"connect.sid=s%3AHR7_OiOrV1-a3opwV1U8cGxyuURH6KeI.WSaXiqrRsunGOGm5bStSFAo6c6m6ZJywR3AjsqMtq6A; i18next=en","host":"localhost:3001","level":"info","message":"header","postman-token":"217abb66-cb95-4612-942e-3683d75fe517","service":"Express-api-demo","user-agent":"PostmanRuntime/7.44.1"}
+{"level":"info","message":"Entered getUsers method","service":"Express-api-demo"}
+{"level":"info","message":"Fetched users successfully","service":"Express-api-demo"}
+{"level":"info","message":"Response: 200 Get all users","service":"Express-api-demo","users":[{"createdAt":"2025-06-07T17:51:02.638Z","email":"aokesokun@gmail.com","id":"68447c0639a27a73bd3d630c","name":"Andrew","updatedAt":"2025-06-07T17:51:02.638Z"},{"createdAt":"2025-06-07T17:58:09.298Z","email":"joe@gmail.com","id":"68447db1d0955abf03092e73","name":"Philip Joe","updatedAt":"2025-06-07T17:58:09.298Z"},{"createdAt":"2025-06-07T17:59:44.882Z","email":"henry@gmail.com","id":"68447e10130f974324dd0bd4","name":"Okon Henry","updatedAt":"2025-06-07T17:59:44.882Z"},{"createdAt":"2025-06-07T18:37:52.003Z","email":"kingsley@gmail.com","id":"684487004ec88f9b06689575","name":"Kingsley","updatedAt":"2025-06-07T18:37:52.003Z"},{"createdAt":"2025-06-08T17:43:17.239Z","email":"kachi@gmail.com","id":"6845cbb5a275b21da820e6b4","name":"Kachi Okon","updatedAt":"2025-06-08T17:43:17.239Z"},{"createdAt":"2025-06-08T18:31:21.739Z","email":"smail ork","id":"6845d6f916417b5d3e2a708e","name":"Snail Ork","updatedAt":"2025-06-08T18:31:21.739Z"},{"createdAt":"2025-06-08T18:36:24.095Z","email":"smail@ork.com","id":"6845d828b3e8d20a6e74ed27","name":"Snail Ork","updatedAt":"2025-06-08T18:36:24.095Z"},{"createdAt":"2025-06-28T16:32:37.534Z","email":"ddrelux","id":"68601925c4adb2a091bbaaa6","name":"Joe","updatedAt":"2025-06-28T16:32:37.534Z"},{"createdAt":"2025-06-28T17:38:44.856Z","email":"ddrelux@gmail.com","id":"686028a48818582615c2f5ec","name":"Joe Rail","updatedAt":"2025-06-28T17:38:44.856Z"},{"createdAt":"2025-07-05T18:38:25.637Z","email":"ddrelux2@gmail.com","id":"68697121661e798b5b85e80b","name":"Ddre lux","updatedAt":"2025-07-05T18:38:25.637Z"}]}
+{"exp":1754763791,"iat":1754761991,"level":"info","message":"loggedIn-user:","name":"Andrew","role":"super_admin","service":"Express-api-demo","userId":"68447c0639a27a73bd3d630c"}
+{"level":"info","message":"Response: 200","service":"Express-api-demo"}
+{"exp":1754763791,"iat":1754761991,"level":"info","message":"loggedIn-user:","name":"Andrew","role":"super_admin","service":"Express-api-demo","userId":"68447c0639a27a73bd3d630c"}
+{"level":"info","message":"Server is running on port 3001","service":"Express-api-demo"}
+{"level":"info","message":"Server is running on port 3001","service":"Express-api-demo"}
+{"level":"info","message":"Connected to MongoDB","service":"Express-api-demo"}
+{"level":"info","message":"Server is running on port 3001","service":"Express-api-demo"}
+{"level":"info","message":"Connected to MongoDB","service":"Express-api-demo"}
+{"level":"info","message":"Server is running on port 3001","service":"Express-api-demo"}
+{"level":"info","message":"Server is running on port 3001","service":"Express-api-demo"}
+{"level":"info","message":"Server is running on port 3001","service":"Express-api-demo"}
+{"level":"info","message":"Connected to MongoDB","service":"Express-api-demo"}
+{"level":"info","message":"Server is running on port 3001","service":"Express-api-demo"}
+{"level":"info","message":"Connected to MongoDB","service":"Express-api-demo"}
+{"level":"info","message":"Server is running on port 3001","service":"Express-api-demo"}
+{"level":"info","message":"Server is running on port 3001","service":"Express-api-demo"}
+{"level":"info","message":"Server is running on port 3001","service":"Express-api-demo"}
+{"level":"info","message":"Server is running on port 3001","service":"Express-api-demo"}
+{"level":"info","message":"Connected to MongoDB","service":"Express-api-demo"}
+{"level":"info","message":"Server is running on port 3001","service":"Express-api-demo"}
+{"level":"info","message":"Connected to MongoDB","service":"Express-api-demo"}

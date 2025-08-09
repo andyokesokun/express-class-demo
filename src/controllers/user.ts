@@ -3,6 +3,7 @@ import User from "../models/user";
 import asyncHandler from "express-async-handler";
 import bcrypt from "bcrypt";
 import { ensureUserCrendentialIsValid, generateToken } from "../utils/helpers";
+import logger from "../utils/logger";
 
 const login = asyncHandler(async (req: Request, res: Response) => {
   const { username, password } = req.body;
@@ -20,8 +21,9 @@ const login = asyncHandler(async (req: Request, res: Response) => {
 
 
 const getUsers = async (req: Request, res: Response) => {
+  logger.info("getUsers: Entered getUsers method");
   const users = await User.getUsers();
-  debugger;
+  logger.info("getUser: Fetched users successfully");
   res.send({ message: "Get all users", users }).status(200);
 };
 
