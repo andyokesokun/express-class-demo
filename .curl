@@ -1,0 +1,29 @@
+curl --location --request POST \
+'https://sandbox.api.mailtrap.io/api/send/3879457' \
+--header 'Authorization: Bearer b29ee6d9c7e33360916519a7a54d4cd4' \
+--header 'Content-Type: application/json' \
+--data-raw '{"from":{"email":"hello@example.com","name":"Mailtrap Test"},"to":[{"email":"aokesokun@gmail.com"}],"subject":"You are awesome!", "templateName": "94086e916af4fab3330301c3e07960b3", "variables": {"quote": "The only limit to our realization of tomorrow is our doubts of today."}}}'
+
+
+
+
+curl --location --request POST \
+'https://sandbox.api.mailtrap.io/api/send/3879457' \
+--header 'Authorization: Bearer b29ee6d9c7e33360916519a7a54d4cd4' \
+--header 'Content-Type: application/json' \
+--data-raw '{"from":{"email":"hello@demomailtrap.co","name":"Mailtrap Test"},"to":[{"email":"aokesokun@gmail.com"}],"template_uuid":"d7400606-dca9-4bcd-aa3c-1e5a47b1e297","template_variables":{"quote":"The only limit to our realization of tomorrow is our doubts of today"}}'
+
+
+Create a web application that accepts two user input which will be numbers.  subtract the second number from the first number.
+using two number fields for the input and one  input field for the output.
+The output should be displayed when the user clicks a button to perform the subtraction. Use HTML, CSS, and JavaScript to create the web application.
+
+hints
+ -- HTML for the input fields and button
+ -- create a CSS file for styling (Optional)
+ -- create a JavaScript file for the logic
+    - (create a function to perform the subtraction)
+    - Use event listeners to handle button clicks
+    - get the values from the input fields using `document.getElementById`
+    - Display the result in the output field 
+
