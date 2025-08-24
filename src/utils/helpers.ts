@@ -5,6 +5,8 @@ import jwt from "jsonwebtoken";
 import { AUTH_TYPE } from "./enums";
 import { UserTokenResponse } from "../dtos";
 
+const quotegen = require("node-quotegen");
+
 export const ensureUserCrendentialIsValid = async (
   username: string,
   password: string,
@@ -95,3 +97,9 @@ export const verifyJwtToken =  (token: string, res: Response) => {
    
     return userTokenResponse;
 }
+
+export const getQuote = () =>{
+   return quotegen.getQuote();
+}
+
+

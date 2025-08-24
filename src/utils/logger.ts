@@ -25,7 +25,7 @@ const logger = winston.createLogger({
         winston.format.simple()
       ),
     }),
-    new winston.transports.File({ filename: logFile, level: 'info' }),
+    // new winston.transports.File({ filename: logFile, level: 'info' }),
     new winston.transports.File({ filename: errorFile, level: 'error' }),
     new SeqHttpTransport({
       serverUrl: process.env.SEQ_SERVER_URL as string,
